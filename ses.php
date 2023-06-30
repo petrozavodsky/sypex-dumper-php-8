@@ -1,6 +1,6 @@
 <?php
 $SES = array (
-  '1c61b6904f1073784017f332293372e2' => 
+  'f420ce2ebf549dea0eb76929f1de25e2' => 
   array (
     'cfg' => 
     array (
@@ -12,10 +12,10 @@ $SES = array (
       'backup_url' => 'backup/',
       'only_create' => 'MRG_MyISAM MERGE HEAP MEMORY',
       'globstat' => 0,
-      'my_host' => 'localhost',
-      'my_port' => 3306,
-      'my_user' => 'heroine',
-      'my_pass' => 'jwgEJ70ADADZ',
+      'my_host' => 'mariadb-wp',
+      'my_port' => '3306',
+      'my_user' => 'wordpress',
+      'my_pass' => 'wordpress',
       'my_comp' => 0,
       'my_db' => '',
       'auth' => 'mysql cfg',
@@ -24,7 +24,7 @@ $SES = array (
       'confirm' => '6',
       'exitURL' => './',
     ),
-    'time' => 1520243379,
+    'time' => 1688110579,
     'lng' => 'ru',
   ),
 );

@@ -1,10 +1,10 @@
 <?php
-
-declare(strict_types = 1);
+error_reporting(E_ALL);
+ini_set('display_errors', 1);
+ini_set('display_startup_errors', 0);
 
 // Sypex Dumper 2
 header("Content-Type: text/html; charset=utf-8");
-error_reporting(0);
 set_error_handler("sxd_error");
 
 if (!empty($_POST['ajax']['job']) && preg_match("/^[\w-]+$/", $_POST['ajax']['job'])) {
