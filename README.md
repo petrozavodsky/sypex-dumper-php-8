@@ -1,4 +1,4 @@
-# Sypex-Dumper-PHP-7.1
+# Sypex-Dumper-PHP-8.1
 
 Installing
 
@@ -11,3 +11,5 @@ Using
 - 1.Open an URL http://domain.com/DUMPER/ in browser.
 - 2.Enter the username and password for your database.
 Please report problems and bugs to the forum, indicating your versions of browser, php and mysql.
+
+p.s. я случайно починил это дерьмо 
