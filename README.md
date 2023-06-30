@@ -1,15 +1,14 @@
 # Sypex-Dumper-PHP-8.1
 
-Installing
+Установка
 
-- 1.Unzip it and upload the contents of the directory to the server.
-- 2.Set chmod 777 for ‘backup’ directory.
-- 3.Set chmod 666 for files ‘cfg.php’ and ‘ses.php’.
+- 1.Распакуйте его и загрузите содержимое каталога на сервер.
+- 2.Установите chmod 777 для каталога ‘backup’.
+- 3.Установите chmod 666 для файлов ‘cfg.php ’ и ‘ses.php ’.
 
-Using
+С помощью
 
-- 1.Open an URL http://domain.com/DUMPER/ in browser.
-- 2.Enter the username and password for your database.
-Please report problems and bugs to the forum, indicating your versions of browser, php and mysql.
+- 1.Откройте URL-адрес http://domain.com/DUMPER / в браузере.
+- 2.Введите имя пользователя и пароль для вашей базы данных.
 
-p.s. я случайно починил это дерьмо 
+p.s. я случайно починил это дерьмо несмотря на то что не сильно старался
